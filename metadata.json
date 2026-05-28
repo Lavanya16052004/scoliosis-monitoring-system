@@ -1,0 +1,7 @@
+{
+  "name": "ScolioVision AI - Automated Scoliosis Detection",
+  "description": "A comprehensive web-based system for Scoliosis detection using AI vision analysis. It calculates the Cobb angle from X-ray images, classifies severity, and provides personalized therapeutic exercise recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
